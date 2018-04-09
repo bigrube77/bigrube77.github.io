@@ -109,7 +109,7 @@ margin: 5px 0;
 }
 .post-thumb img {
     display: block;
-    max-width:100%;
+    max-width:80%;
 }
 .post-content {
     align: top;
