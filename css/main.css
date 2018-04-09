@@ -110,7 +110,8 @@ margin: 5px 0;
     display: block
 }
 .post-content {
-    
+    align: top;
+    padding-top: 1em; 
 }
 .post-title {
     font-weight: bold;
