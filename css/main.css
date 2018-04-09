@@ -103,13 +103,14 @@ margin: 5px 0;
     overflow: auto
 }
 .post-thumb {
-    float: right
+    float: right;
+    padding-left: 1em;
 }
 .post-thumb img {
     display: block
 }
 .post-content {
-    margin-left: 210px
+    
 }
 .post-title {
     font-weight: bold;
