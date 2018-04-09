@@ -103,7 +103,7 @@ margin: 5px 0;
     overflow: auto
 }
 .post-thumb {
-    float: left
+    float: right
 }
 .post-thumb img {
     display: block
