@@ -114,12 +114,12 @@ margin: 5px 0;
     float: right;
 }
 .post-content {
-    vertical-align: text-top;
+    vertical-align: top;
     padding-top: 1em; 
     padding-right:2em;
 }
 .post-title {
     font-weight: bold;
-    vertical-align: text-top;
+    vertical-align: top;
 
 }
