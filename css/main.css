@@ -7,7 +7,10 @@ a:hover { text-decoration: underline; }
 
 p { font-size: 1.2em; font-family: 'Computer Modern Serif'; line-height: 1.2em; color: #333; }
 
-ul { font-size: 1.2em; font-family: 'Computer Modern Serif'; line-height: 1.2em; color: #333; }
+ul { font-size: 1.0em; font-family: 'Computer Modern Serif'; line-height: 1.2em; color: #333; }
+
+li { font-size: 1.0em; font-family: 'Computer Modern Serif'; line-height: 1.2em; color: #333; }
+
 
 
 h1, h2, h3, h4 { font-family: 'Computer Modern Serif'}
