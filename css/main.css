@@ -110,6 +110,7 @@ margin: 5px 0;
 .post-thumb img {
     display: block;
     max-width:80%;
+    max-height:80%;
 }
 .post-content {
     align: top;
