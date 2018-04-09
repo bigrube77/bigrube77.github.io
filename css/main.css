@@ -11,7 +11,7 @@ ul { font-size: 1.0em; font-family: 'Computer Modern Serif'; line-height: 1.2em;
 
 li { font-size: 1.0em; font-family: 'Computer Modern Serif'; line-height: 1.2em; color: #333; }
 
-.cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+.cv .download { float: right; font-family: 'Computer Modern Serif'; font-size: .8em; text-transform: uppercase; }
 
 h1, h2, h3, h4 { font-family: 'Computer Modern Serif'}
 h1 { font-size: 2.3em;  }
