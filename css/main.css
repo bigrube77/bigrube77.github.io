@@ -105,9 +105,11 @@ margin: 5px 0;
 .post-thumb {
     float: right;
     padding-left: 1em;
+    
 }
 .post-thumb img {
-    display: block
+    display: block;
+    max-width:100%;
 }
 .post-content {
     align: top;
