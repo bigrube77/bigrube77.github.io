@@ -96,30 +96,3 @@ margin: 1em 0;
 ul li {
 margin: 5px 0;
 } 
-
-.post-container {
-    margin: 0px 0 10px 0;
-    border: 0px solid #333;
-    overflow: auto
-}
-.post-thumb {
-    float: right;
-    padding-left: 1em;
-    
-}
-.post-thumb img {
-    display: block;
-    max-width:80%;
-    max-height:80%;
-    float: right;
-}
-.post-content {
-    vertical-align: top;
-    padding-top: 0em; 
-    padding-right:2em;
-}
-.post-title {
-    font-weight: bold;
-    font-size: 200%;
-
-}
